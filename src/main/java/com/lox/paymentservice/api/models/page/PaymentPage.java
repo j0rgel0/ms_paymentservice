@@ -1,8 +1,6 @@
-// src/main/java/com/lox/paymentservice/api/models/page/PaymentPage.java
-
 package com.lox.paymentservice.api.models.page;
 
-import com.lox.paymentservice.api.models.PaymentResponse;
+import com.lox.paymentservice.api.models.responses.PaymentResponse;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

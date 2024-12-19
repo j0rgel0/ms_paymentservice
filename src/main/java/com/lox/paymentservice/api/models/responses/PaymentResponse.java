@@ -1,4 +1,4 @@
-package com.lox.paymentservice.api.models;
+package com.lox.paymentservice.api.models.responses;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import java.math.BigDecimal;

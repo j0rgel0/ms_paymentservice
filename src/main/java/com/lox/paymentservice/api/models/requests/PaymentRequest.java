@@ -1,4 +1,4 @@
-package com.lox.paymentservice.api.models;
+package com.lox.paymentservice.api.models.requests;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;

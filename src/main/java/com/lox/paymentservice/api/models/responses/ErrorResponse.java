@@ -1,4 +1,4 @@
-package com.lox.paymentservice.api.models;
+package com.lox.paymentservice.api.models.responses;
 
 import java.time.Instant;
 import lombok.AllArgsConstructor;

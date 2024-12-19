@@ -1,7 +1,7 @@
 package com.lox.paymentservice.api.controllers;
 
-import com.lox.paymentservice.api.models.PaymentRequest;
-import com.lox.paymentservice.api.models.PaymentResponse;
+import com.lox.paymentservice.api.models.requests.PaymentRequest;
+import com.lox.paymentservice.api.models.responses.PaymentResponse;
 import com.lox.paymentservice.api.models.page.PaymentPage;
 import com.lox.paymentservice.api.services.PaymentService;
 import lombok.RequiredArgsConstructor;
