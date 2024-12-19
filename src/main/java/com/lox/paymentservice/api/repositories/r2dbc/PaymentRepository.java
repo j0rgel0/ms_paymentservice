@@ -8,5 +8,4 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface PaymentRepository extends ReactiveCrudRepository<Payment, UUID>,
         PaymentRepositoryCustom {
-    // No need to declare countPaymentsByFilters here as it's part of PaymentRepositoryCustom
 }

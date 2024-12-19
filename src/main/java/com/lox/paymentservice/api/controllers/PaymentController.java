@@ -5,6 +5,7 @@ import com.lox.paymentservice.api.models.PaymentResponse;
 import com.lox.paymentservice.api.models.page.PaymentPage;
 import com.lox.paymentservice.api.services.PaymentService;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
@@ -14,6 +15,7 @@ import jakarta.validation.Valid;
 import java.time.Instant;
 import java.util.UUID;
 
+@Slf4j
 @RestController
 @RequestMapping("/api/payments")
 @RequiredArgsConstructor
@@ -30,7 +32,8 @@ public class PaymentController {
      */
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Mono<PaymentResponse> initiatePayment(@Valid @RequestBody PaymentRequest paymentRequest) {
+    public Mono<PaymentResponse> initiatePayment(
+            @Valid @RequestBody PaymentRequest paymentRequest) {
         return paymentService.initiatePayment(paymentRequest);
     }
 
@@ -53,9 +56,15 @@ public class PaymentController {
      * @return A Mono emitting the updated PaymentResponse.
      */
     @PutMapping("/{paymentId}")
-    public Mono<PaymentResponse> updatePaymentStatus(@PathVariable UUID paymentId,
-            @Valid @RequestBody PaymentRequest paymentRequest) {
-        return paymentService.updatePaymentStatus(paymentId, paymentRequest);
+    public Mono<PaymentResponse> updatePaymentStatus(
+            @PathVariable UUID paymentId,
+            @Validated(PaymentRequest.Update.class) @RequestBody PaymentRequest paymentRequest) {
+        log.info("Received request to update payment with ID: {}", paymentId);
+        return paymentService.updatePaymentStatus(paymentId, paymentRequest)
+                .doOnSuccess(
+                        response -> log.info("Successfully updated payment with ID: {}", paymentId))
+                .doOnError(
+                        error -> log.error("Error updating payment with ID: {}", paymentId, error));
     }
 
     /**

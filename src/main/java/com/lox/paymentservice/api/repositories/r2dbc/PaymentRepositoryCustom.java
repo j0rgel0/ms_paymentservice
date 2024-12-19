@@ -1,13 +1,13 @@
 package com.lox.paymentservice.api.repositories.r2dbc;
 
 import com.lox.paymentservice.api.models.Payment;
+import java.util.UUID;
 import org.springframework.data.domain.Pageable;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
-import java.util.UUID;
-
 public interface PaymentRepositoryCustom {
+
     /**
      * Finds payments based on provided filters.
      *
@@ -18,7 +18,8 @@ public interface PaymentRepositoryCustom {
      * @param pageable  Pagination information.
      * @return A Flux of Payment entities matching the criteria.
      */
-    Flux<Payment> findPaymentsByFilters(String status, UUID userId, UUID orderId, String dateRange, Pageable pageable);
+    Flux<Payment> findPaymentsByFilters(String status, UUID userId, UUID orderId, String dateRange,
+            Pageable pageable);
 
     /**
      * Counts the number of payments based on provided filters.

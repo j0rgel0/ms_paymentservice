@@ -1,6 +1,8 @@
 package com.lox.paymentservice.api.repositories.r2dbc;
 
 import com.lox.paymentservice.api.models.Payment;
+import java.time.Instant;
+import java.util.UUID;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.r2dbc.core.R2dbcEntityTemplate;
 import org.springframework.data.relational.core.query.Criteria;
@@ -8,9 +10,6 @@ import org.springframework.data.relational.core.query.Query;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
-
-import java.time.Instant;
-import java.util.UUID;
 
 @Repository
 public class PaymentRepositoryCustomImpl implements PaymentRepositoryCustom {
@@ -22,7 +21,8 @@ public class PaymentRepositoryCustomImpl implements PaymentRepositoryCustom {
     }
 
     @Override
-    public Flux<Payment> findPaymentsByFilters(String status, UUID userId, UUID orderId, String dateRange, Pageable pageable) {
+    public Flux<Payment> findPaymentsByFilters(String status, UUID userId, UUID orderId,
+            String dateRange, Pageable pageable) {
         // Start with empty criteria
         Criteria criteria = Criteria.empty();
 
@@ -61,7 +61,8 @@ public class PaymentRepositoryCustomImpl implements PaymentRepositoryCustom {
     }
 
     @Override
-    public Mono<Long> countPaymentsByFilters(String status, UUID userId, UUID orderId, String dateRange) {
+    public Mono<Long> countPaymentsByFilters(String status, UUID userId, UUID orderId,
+            String dateRange) {
         // Start with empty criteria
         Criteria criteria = Criteria.empty();
 

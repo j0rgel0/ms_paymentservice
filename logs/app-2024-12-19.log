@@ -1,1 +1,1049 @@
 2024-12-19 00:01:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:06:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:11:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:16:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:21:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:26:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:31:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:36:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:41:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:46:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:51:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 00:56:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:01:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:06:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:11:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:16:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:21:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:26:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:31:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:36:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:41:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:46:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:51:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 01:56:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:01:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:06:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:11:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:16:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:21:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:26:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:31:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:36:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:41:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:46:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:51:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 02:56:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:01:26 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:06:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:11:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:16:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:21:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:26:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:31:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:36:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:41:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:46:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:51:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 03:56:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:01:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:06:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:11:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:16:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:21:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:26:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:31:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:36:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:41:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:46:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:51:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 04:56:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:01:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:06:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:11:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:16:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:21:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:26:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:31:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:36:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:41:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:46:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:51:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 05:56:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:01:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:06:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:11:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:16:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:21:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:26:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:31:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:36:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:40:58 [reactor-http-nio-12] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/f0fd9ffb-5986-4b0b-9e6e-fc14457572ea
+2024-12-19 06:40:58 [reactor-http-nio-12] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 06:41:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:42:03 [reactor-http-nio-15] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments/f0fd9ffb-5986-4b0b-9e6e-fc14457572ea
+2024-12-19 06:42:03 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:42:49 [reactor-http-nio-15] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: DELETE http://localhost:7073/api/payments/f0fd9ffb-5986-4b0b-9e6e-fc14457572ea
+2024-12-19 06:42:49 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 204 NO_CONTENT
+2024-12-19 06:42:56 [reactor-http-nio-15] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/f0fd9ffb-5986-4b0b-9e6e-fc14457572ea
+2024-12-19 06:42:56 [reactor-http-nio-15] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 06:46:27 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:48:24 [SpringApplicationShutdownHook] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application LOX-PAYMENT-SERVICE with eureka with status DOWN
+2024-12-19 06:48:24 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612504893, current=DOWN, previous=UP]
+2024-12-19 06:48:24 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612504905, current=UP, previous=DOWN]
+2024-12-19 06:48:24 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:e21542226056d5af28fdab60e3719dd3: registering service...
+2024-12-19 06:48:24 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-19 06:48:24 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2024-12-19 06:48:25 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:e21542226056d5af28fdab60e3719dd3 - registration status: 204
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.producer for producer-1 unregistered
+2024-12-19 06:48:27 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2024-12-19 06:48:30 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2024-12-19 06:48:30 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:e21542226056d5af28fdab60e3719dd3 - deregister  status: 200
+2024-12-19 06:48:30 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2024-12-19 06:49:05 [main] INFO  c.l.p.PaymentserviceApplication - Starting PaymentserviceApplication using Java 21.0.4 with PID 9208 (C:\Edureka\repositories\LOX_GRADLE\paymentservice\build\classes\java\main started by jorge in C:\Edureka\repositories\LOX_GRADLE\paymentservice)
+2024-12-19 06:49:05 [main] INFO  c.l.p.PaymentserviceApplication - The following 1 profile is active: "local"
+2024-12-19 06:49:05 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 06:49:05 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[default], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 06:49:05 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 06:49:05 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[local], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 06:49:06 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 06:49:06 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2024-12-19 06:49:07 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 282 ms. Found 1 R2DBC repository interface.
+2024-12-19 06:49:08 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 06:49:08 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-19 06:49:08 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.lox.paymentservice.api.repositories.r2dbc.PaymentRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2024-12-19 06:49:08 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 36 ms. Found 0 Redis repository interfaces.
+2024-12-19 06:49:09 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ca57bfc2-9885-3b3c-9c7a-3b9431ea3ffa
+2024-12-19 06:49:15 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 5 endpoints beneath base path '/actuator'
+2024-12-19 06:49:17 [main] INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:postgresql://localhost:5435/paymentdb (PostgreSQL 17.2)
+2024-12-19 06:49:17 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 1 migration (execution time 00:00.075s)
+2024-12-19 06:49:17 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": 1
+2024-12-19 06:49:17 [main] WARN  o.f.core.internal.command.DbMigrate - outOfOrder mode is active. Migration of schema "public" may not be reproducible.
+2024-12-19 06:49:17 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2024-12-19 06:49:18 [main] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2024-12-19 06:49:19 [main] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-12-19 06:49:19 [main] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.controllers = []
+	bootstrap.servers = [localhost:29092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = lox-payment-service-admin-0
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	enable.metrics.push = true
+	metadata.max.age.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2024-12-19 06:49:19 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 06:49:19 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 06:49:19 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734612559338
+2024-12-19 06:49:19 [kafka-admin-client-thread | lox-payment-service-admin-0] WARN  o.a.k.clients.admin.KafkaAdminClient - [AdminClient clientId=lox-payment-service-admin-0] The DescribeTopicPartitions API is not supported, using Metadata API to describe topics.
+2024-12-19 06:49:20 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for lox-payment-service-admin-0 unregistered
+2024-12-19 06:49:20 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 06:49:20 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 06:49:20 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 06:49:20 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2024-12-19 06:49:20 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2024-12-19 06:49:20 [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1734612560608 with initial instances count: 6
+2024-12-19 06:49:20 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application LOX-PAYMENT-SERVICE with eureka with status UP
+2024-12-19 06:49:20 [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612560630, current=UP, previous=STARTING]
+2024-12-19 06:49:20 [main] WARN  c.n.discovery.InstanceInfoReplicator - Ignoring onDemand update due to rate limiter
+2024-12-19 06:49:20 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7073 (http)
+2024-12-19 06:49:20 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 7073
+2024-12-19 06:49:20 [main] INFO  c.l.p.PaymentserviceApplication - Started PaymentserviceApplication in 20.939 seconds (process running for 22.477)
+2024-12-19 06:49:21 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:a96260c9196bb9d3548310d8e3f498d0: registering service...
+2024-12-19 06:49:21 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:a96260c9196bb9d3548310d8e3f498d0 - registration status: 204
+2024-12-19 06:49:36 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = -1
+	auto.include.jmx.reporter = true
+	batch.size = 16384
+	bootstrap.servers = [localhost:29092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.gzip.level = -1
+	compression.lz4.level = 9
+	compression.type = none
+	compression.zstd.level = 3
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = true
+	enable.metrics.push = true
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 5
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.adaptive.partitioning.enable = true
+	partitioner.availability.timeout.ms = 0
+	partitioner.class = null
+	partitioner.ignore.keys = false
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.k.c.t.i.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Instantiated an idempotent producer.
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734612577217
+2024-12-19 06:49:37 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: msz7zaIZTM-jj6F_9XA9Eg
+2024-12-19 06:49:37 [kafka-producer-network-thread | producer-1] INFO  o.a.k.c.p.i.TransactionManager - [Producer clientId=producer-1] ProducerId set to 30 with epoch 0
+2024-12-19 06:49:37 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 201 CREATED
+2024-12-19 06:50:19 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments
+2024-12-19 06:50:19 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 201 CREATED
+2024-12-19 06:50:25 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments/7fcd8f5e-09c3-4845-bf74-ff57f760c04a
+2024-12-19 06:50:25 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:50:30 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/7fcd8f5e-09c3-4845-bf74-ff57f760c04a
+2024-12-19 06:50:30 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 06:51:10 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments?status=COMPLETED&userId=123e4567-e89b-12d3-a456-426614174001&orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea&startDate=2024-01-01T00:00:00Z&endDate=2024-12-31T23:59:59Z&page=0&size=10
+2024-12-19 06:51:10 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:51:22 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments?status=INITIATED&userId=123e4567-e89b-12d3-a456-426614174001&orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea&startDate=2024-01-01T00:00:00Z&endDate=2024-12-31T23:59:59Z&page=0&size=10
+2024-12-19 06:51:22 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:51:37 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments?status=&userId=123e4567-e89b-12d3-a456-426614174001&orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea&startDate=2024-01-01T00:00:00Z&endDate=2024-12-31T23:59:59Z&page=0&size=10
+2024-12-19 06:51:37 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:51:42 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments?status=&userId=123e4567-e89b-12d3-a456-426614174001&orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea&startDate=2024-01-01T00:00:00Z&endDate=2024-12-31T23:59:59Z&page=0&size=10
+2024-12-19 06:51:42 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:52:41 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments/callback
+2024-12-19 06:52:41 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:52:50 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments/7fcd8f5e-09c3-4845-bf74-ff57f760c04a
+2024-12-19 06:52:50 [reactor-tcp-nio-4] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:54:01 [SpringApplicationShutdownHook] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application LOX-PAYMENT-SERVICE with eureka with status DOWN
+2024-12-19 06:54:01 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612841523, current=DOWN, previous=UP]
+2024-12-19 06:54:01 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-19 06:54:01 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2024-12-19 06:54:01 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612841533, current=UP, previous=DOWN]
+2024-12-19 06:54:01 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:a96260c9196bb9d3548310d8e3f498d0: registering service...
+2024-12-19 06:54:01 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:a96260c9196bb9d3548310d8e3f498d0 - registration status: 204
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.producer for producer-1 unregistered
+2024-12-19 06:54:03 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2024-12-19 06:54:06 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2024-12-19 06:54:06 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:a96260c9196bb9d3548310d8e3f498d0 - deregister  status: 200
+2024-12-19 06:54:06 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2024-12-19 06:54:24 [main] INFO  c.l.p.PaymentserviceApplication - Starting PaymentserviceApplication using Java 21.0.4 with PID 48012 (C:\Edureka\repositories\LOX_GRADLE\paymentservice\build\classes\java\main started by jorge in C:\Edureka\repositories\LOX_GRADLE\paymentservice)
+2024-12-19 06:54:24 [main] INFO  c.l.p.PaymentserviceApplication - The following 1 profile is active: "local"
+2024-12-19 06:54:24 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 06:54:24 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[default], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 06:54:24 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 06:54:24 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[local], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 06:54:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 06:54:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2024-12-19 06:54:26 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 223 ms. Found 1 R2DBC repository interface.
+2024-12-19 06:54:27 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 06:54:27 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-19 06:54:27 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.lox.paymentservice.api.repositories.r2dbc.PaymentRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2024-12-19 06:54:27 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 27 ms. Found 0 Redis repository interfaces.
+2024-12-19 06:54:27 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ca57bfc2-9885-3b3c-9c7a-3b9431ea3ffa
+2024-12-19 06:54:33 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 5 endpoints beneath base path '/actuator'
+2024-12-19 06:54:35 [main] INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:postgresql://localhost:5435/paymentdb (PostgreSQL 17.2)
+2024-12-19 06:54:35 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 1 migration (execution time 00:00.048s)
+2024-12-19 06:54:35 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": 1
+2024-12-19 06:54:35 [main] WARN  o.f.core.internal.command.DbMigrate - outOfOrder mode is active. Migration of schema "public" may not be reproducible.
+2024-12-19 06:54:35 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2024-12-19 06:54:36 [main] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2024-12-19 06:54:36 [main] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-12-19 06:54:36 [main] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.controllers = []
+	bootstrap.servers = [localhost:29092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = lox-payment-service-admin-0
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	enable.metrics.push = true
+	metadata.max.age.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2024-12-19 06:54:36 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 06:54:36 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 06:54:36 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734612876751
+2024-12-19 06:54:37 [kafka-admin-client-thread | lox-payment-service-admin-0] WARN  o.a.k.clients.admin.KafkaAdminClient - [AdminClient clientId=lox-payment-service-admin-0] The DescribeTopicPartitions API is not supported, using Metadata API to describe topics.
+2024-12-19 06:54:37 [main] ERROR o.s.kafka.core.KafkaAdmin - Failed to create topics
+org.apache.kafka.common.errors.InvalidPartitionsException: Number of partitions must be larger than 0.
+2024-12-19 06:54:37 [main] ERROR o.s.kafka.core.KafkaAdmin - Could not configure topics
+org.springframework.kafka.KafkaException: Failed to create topics
+	at org.springframework.kafka.core.KafkaAdmin.addTopics(KafkaAdmin.java:585)
+	at org.springframework.kafka.core.KafkaAdmin.addOrModifyTopicsIfNeeded(KafkaAdmin.java:432)
+	at org.springframework.kafka.core.KafkaAdmin.initialize(KafkaAdmin.java:276)
+	at org.springframework.kafka.core.KafkaAdmin.afterSingletonsInstantiated(KafkaAdmin.java:240)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1057)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.reactive.context.ReactiveWebServerApplicationContext.refresh(ReactiveWebServerApplicationContext.java:66)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.lox.paymentservice.PaymentserviceApplication.main(PaymentserviceApplication.java:12)
+Caused by: org.apache.kafka.common.errors.InvalidPartitionsException: Number of partitions must be larger than 0.
+2024-12-19 06:54:37 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for lox-payment-service-admin-0 unregistered
+2024-12-19 06:54:37 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 06:54:37 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 06:54:37 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 06:54:37 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2024-12-19 06:54:37 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2024-12-19 06:54:37 [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2024-12-19 06:54:38 [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2024-12-19 06:54:38 [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2024-12-19 06:54:38 [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-12-19 06:54:38 [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1734612878095 with initial instances count: 6
+2024-12-19 06:54:38 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application LOX-PAYMENT-SERVICE with eureka with status UP
+2024-12-19 06:54:38 [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734612878133, current=UP, previous=STARTING]
+2024-12-19 06:54:38 [main] WARN  c.n.discovery.InstanceInfoReplicator - Ignoring onDemand update due to rate limiter
+2024-12-19 06:54:38 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7073 (http)
+2024-12-19 06:54:38 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 7073
+2024-12-19 06:54:38 [main] INFO  c.l.p.PaymentserviceApplication - Started PaymentserviceApplication in 18.765 seconds (process running for 20.16)
+2024-12-19 06:54:39 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:6aff73976f636b8f5dafcc8f8ac57042: registering service...
+2024-12-19 06:54:39 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:6aff73976f636b8f5dafcc8f8ac57042 - registration status: 204
+2024-12-19 06:55:05 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: DELETE http://localhost:7073/api/payments/7fcd8f5e-09c3-4845-bf74-ff57f760c04a
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = -1
+	auto.include.jmx.reporter = true
+	batch.size = 16384
+	bootstrap.servers = [localhost:29092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.gzip.level = -1
+	compression.lz4.level = 9
+	compression.type = none
+	compression.zstd.level = 3
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = true
+	enable.metrics.push = true
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 5
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.adaptive.partitioning.enable = true
+	partitioner.availability.timeout.ms = 0
+	partitioner.class = null
+	partitioner.ignore.keys = false
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.k.c.t.i.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Instantiated an idempotent producer.
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 06:55:05 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734612905801
+2024-12-19 06:55:05 [kafka-producer-network-thread | producer-1] WARN  o.apache.kafka.clients.NetworkClient - [Producer clientId=producer-1] Error while fetching metadata with correlation id 1 : {payment-events=LEADER_NOT_AVAILABLE}
+2024-12-19 06:55:05 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: msz7zaIZTM-jj6F_9XA9Eg
+2024-12-19 06:55:05 [kafka-producer-network-thread | producer-1] INFO  o.a.k.c.p.i.TransactionManager - [Producer clientId=producer-1] ProducerId set to 31 with epoch 0
+2024-12-19 06:55:06 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 204 NO_CONTENT
+2024-12-19 06:55:10 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments
+2024-12-19 06:55:10 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 201 CREATED
+2024-12-19 06:55:14 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments/30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 06:55:14 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:55:23 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 06:55:23 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 06:55:27 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments/callback
+2024-12-19 06:55:28 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 06:59:37 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 07:01:58 [SpringApplicationShutdownHook] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application LOX-PAYMENT-SERVICE with eureka with status DOWN
+2024-12-19 07:01:58 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613318866, current=DOWN, previous=UP]
+2024-12-19 07:01:58 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-19 07:01:58 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2024-12-19 07:01:58 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613318903, current=UP, previous=DOWN]
+2024-12-19 07:01:58 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:6aff73976f636b8f5dafcc8f8ac57042: registering service...
+2024-12-19 07:01:58 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:6aff73976f636b8f5dafcc8f8ac57042 - registration status: 204
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms.
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.producer for producer-1 unregistered
+2024-12-19 07:02:01 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2024-12-19 07:02:04 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2024-12-19 07:02:04 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:6aff73976f636b8f5dafcc8f8ac57042 - deregister  status: 200
+2024-12-19 07:02:04 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2024-12-19 07:02:21 [main] INFO  c.l.p.PaymentserviceApplication - Starting PaymentserviceApplication using Java 21.0.4 with PID 7560 (C:\Edureka\repositories\LOX_GRADLE\paymentservice\build\classes\java\main started by jorge in C:\Edureka\repositories\LOX_GRADLE\paymentservice)
+2024-12-19 07:02:21 [main] INFO  c.l.p.PaymentserviceApplication - The following 1 profile is active: "local"
+2024-12-19 07:02:21 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 07:02:21 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[default], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 07:02:21 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 07:02:21 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[local], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 07:02:23 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 07:02:23 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2024-12-19 07:02:24 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 290 ms. Found 1 R2DBC repository interface.
+2024-12-19 07:02:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 07:02:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-19 07:02:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.lox.paymentservice.api.repositories.r2dbc.PaymentRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2024-12-19 07:02:25 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40 ms. Found 0 Redis repository interfaces.
+2024-12-19 07:02:27 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ca57bfc2-9885-3b3c-9c7a-3b9431ea3ffa
+2024-12-19 07:02:33 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 5 endpoints beneath base path '/actuator'
+2024-12-19 07:02:36 [main] INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:postgresql://localhost:5435/paymentdb (PostgreSQL 17.2)
+2024-12-19 07:02:36 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 1 migration (execution time 00:00.049s)
+2024-12-19 07:02:36 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": 1
+2024-12-19 07:02:36 [main] WARN  o.f.core.internal.command.DbMigrate - outOfOrder mode is active. Migration of schema "public" may not be reproducible.
+2024-12-19 07:02:36 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2024-12-19 07:02:37 [main] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2024-12-19 07:02:38 [main] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-12-19 07:02:38 [main] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.controllers = []
+	bootstrap.servers = [localhost:29092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = lox-payment-service-admin-0
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	enable.metrics.push = true
+	metadata.max.age.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2024-12-19 07:02:38 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 07:02:38 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 07:02:38 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734613358270
+2024-12-19 07:02:38 [kafka-admin-client-thread | lox-payment-service-admin-0] WARN  o.a.k.clients.admin.KafkaAdminClient - [AdminClient clientId=lox-payment-service-admin-0] The DescribeTopicPartitions API is not supported, using Metadata API to describe topics.
+2024-12-19 07:02:38 [main] INFO  o.s.kafka.core.KafkaAdmin - Topic 'payment-events' exists but has a different partition count: 1 not 0
+2024-12-19 07:02:38 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for lox-payment-service-admin-0 unregistered
+2024-12-19 07:02:38 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 07:02:38 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 07:02:38 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 07:02:39 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2024-12-19 07:02:39 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2024-12-19 07:02:39 [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1734613359601 with initial instances count: 6
+2024-12-19 07:02:39 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application LOX-PAYMENT-SERVICE with eureka with status UP
+2024-12-19 07:02:39 [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613359640, current=UP, previous=STARTING]
+2024-12-19 07:02:39 [main] WARN  c.n.discovery.InstanceInfoReplicator - Ignoring onDemand update due to rate limiter
+2024-12-19 07:02:39 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7073 (http)
+2024-12-19 07:02:39 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 7073
+2024-12-19 07:02:39 [main] INFO  c.l.p.PaymentserviceApplication - Started PaymentserviceApplication in 22.055 seconds (process running for 23.793)
+2024-12-19 07:02:40 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:c65a267ff089f4535eaf86248294c54c: registering service...
+2024-12-19 07:02:40 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:c65a267ff089f4535eaf86248294c54c - registration status: 204
+2024-12-19 07:02:52 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/%7BpaymentId%7D
+2024-12-19 07:02:52 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 07:03:00 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/%7BpaymentId%7D
+2024-12-19 07:03:00 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 07:03:18 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/%7BpaymentId%7D
+2024-12-19 07:03:18 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 07:06:32 [SpringApplicationShutdownHook] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Unregistering application LOX-PAYMENT-SERVICE with eureka with status DOWN
+2024-12-19 07:06:32 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613592835, current=DOWN, previous=UP]
+2024-12-19 07:06:32 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-19 07:06:32 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613592852, current=UP, previous=DOWN]
+2024-12-19 07:06:32 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:c65a267ff089f4535eaf86248294c54c: registering service...
+2024-12-19 07:06:32 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2024-12-19 07:06:32 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:c65a267ff089f4535eaf86248294c54c - registration status: 204
+2024-12-19 07:06:34 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Shutting down DiscoveryClient ...
+2024-12-19 07:06:37 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Unregistering ...
+2024-12-19 07:06:38 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:c65a267ff089f4535eaf86248294c54c - deregister  status: 200
+2024-12-19 07:06:38 [SpringApplicationShutdownHook] INFO  c.netflix.discovery.DiscoveryClient - Completed shut down of DiscoveryClient
+2024-12-19 07:07:16 [main] INFO  c.l.p.PaymentserviceApplication - Starting PaymentserviceApplication using Java 21.0.4 with PID 29364 (C:\Edureka\repositories\LOX_GRADLE\paymentservice\build\classes\java\main started by jorge in C:\Edureka\repositories\LOX_GRADLE\paymentservice)
+2024-12-19 07:07:16 [main] INFO  c.l.p.PaymentserviceApplication - The following 1 profile is active: "local"
+2024-12-19 07:07:16 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 07:07:16 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[default], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 07:07:16 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Fetching config from server at : http://localhost:8888
+2024-12-19 07:07:16 [main] INFO  o.s.c.c.c.ConfigServerConfigDataLoader - Located environment: name=lox-payment-service, profiles=[local], label=null, version=f9020847b3f27020b554ae631c8d31dec03b5001, state=
+2024-12-19 07:07:18 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 07:07:18 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2024-12-19 07:07:18 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 384 ms. Found 1 R2DBC repository interface.
+2024-12-19 07:07:19 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-12-19 07:07:19 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-12-19 07:07:19 [main] INFO  o.s.d.r.c.RepositoryConfigurationExtensionSupport - Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.lox.paymentservice.api.repositories.r2dbc.PaymentRepository; If you want this repository to be a Redis repository, consider annotating your entities with one of these annotations: org.springframework.data.redis.core.RedisHash (preferred), or consider extending one of the following types with your repository: org.springframework.data.keyvalue.repository.KeyValueRepository
+2024-12-19 07:07:19 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44 ms. Found 0 Redis repository interfaces.
+2024-12-19 07:07:20 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=ca57bfc2-9885-3b3c-9c7a-3b9431ea3ffa
+2024-12-19 07:07:29 [main] WARN  i.n.r.d.DefaultDnsServerAddressStreamProvider - Default DNS servers: [/[2001:4860:4860:0:0:0:0:8888]:53, /[2001:4860:4860:0:0:0:0:8844]:53] (Google Public DNS as a fallback)
+2024-12-19 07:07:37 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 5 endpoints beneath base path '/actuator'
+2024-12-19 07:07:43 [main] INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:postgresql://localhost:5435/paymentdb (PostgreSQL 17.2)
+2024-12-19 07:07:43 [main] INFO  o.f.core.internal.command.DbValidate - Successfully validated 1 migration (execution time 00:00.127s)
+2024-12-19 07:07:43 [main] INFO  o.f.core.internal.command.DbMigrate - Current version of schema "public": 1
+2024-12-19 07:07:43 [main] WARN  o.f.core.internal.command.DbMigrate - outOfOrder mode is active. Migration of schema "public" may not be reproducible.
+2024-12-19 07:07:43 [main] INFO  o.f.core.internal.command.DbMigrate - Schema "public" is up to date. No migration necessary.
+2024-12-19 07:07:46 [main] INFO  o.s.c.n.e.c.DiscoveryClientOptionalArgsConfiguration - Eureka HTTP Client uses RestTemplate.
+2024-12-19 07:07:47 [main] WARN  o.s.c.l.c.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger - Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-12-19 07:07:47 [main] INFO  o.a.k.c.admin.AdminClientConfig - AdminClientConfig values: 
+	auto.include.jmx.reporter = true
+	bootstrap.controllers = []
+	bootstrap.servers = [localhost:29092]
+	client.dns.lookup = use_all_dns_ips
+	client.id = lox-payment-service-admin-0
+	connections.max.idle.ms = 300000
+	default.api.timeout.ms = 60000
+	enable.metrics.push = true
+	metadata.max.age.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+
+2024-12-19 07:07:47 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 07:07:47 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 07:07:47 [main] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734613667477
+2024-12-19 07:07:49 [kafka-admin-client-thread | lox-payment-service-admin-0] WARN  o.a.k.clients.admin.KafkaAdminClient - [AdminClient clientId=lox-payment-service-admin-0] The DescribeTopicPartitions API is not supported, using Metadata API to describe topics.
+2024-12-19 07:07:49 [main] INFO  o.s.kafka.core.KafkaAdmin - Topic 'payment-events' exists but has a different partition count: 1 not 0
+2024-12-19 07:07:49 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.utils.AppInfoParser - App info kafka.admin.client for lox-payment-service-admin-0 unregistered
+2024-12-19 07:07:49 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-12-19 07:07:49 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-12-19 07:07:49 [kafka-admin-client-thread | lox-payment-service-admin-0] INFO  o.a.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-12-19 07:07:49 [main] INFO  o.s.c.n.eureka.InstanceInfoFactory - Setting initial instance status as: STARTING
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Initializing Eureka in region us-east-1
+2024-12-19 07:07:49 [main] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Disable delta property : false
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Single vip registry refresh property : null
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Force full registry fetch : false
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Application is null : false
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Registered Applications size is zero : true
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Application version is -1: true
+2024-12-19 07:07:49 [main] INFO  c.netflix.discovery.DiscoveryClient - Getting all instance registry info from the eureka server
+2024-12-19 07:07:50 [main] INFO  c.netflix.discovery.DiscoveryClient - The response status is 200
+2024-12-19 07:07:50 [main] INFO  c.netflix.discovery.DiscoveryClient - Starting heartbeat executor: renew interval is: 30
+2024-12-19 07:07:50 [main] INFO  c.n.discovery.InstanceInfoReplicator - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2024-12-19 07:07:50 [main] INFO  c.netflix.discovery.DiscoveryClient - Discovery Client initialized at timestamp 1734613670740 with initial instances count: 6
+2024-12-19 07:07:50 [main] INFO  o.s.c.n.e.s.EurekaServiceRegistry - Registering application LOX-PAYMENT-SERVICE with eureka with status UP
+2024-12-19 07:07:50 [main] INFO  c.netflix.discovery.DiscoveryClient - Saw local status change event StatusChangeEvent [timestamp=1734613670803, current=UP, previous=STARTING]
+2024-12-19 07:07:50 [main] WARN  c.n.discovery.InstanceInfoReplicator - Ignoring onDemand update due to rate limiter
+2024-12-19 07:07:51 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 7073 (http)
+2024-12-19 07:07:51 [main] INFO  o.s.c.n.e.s.EurekaAutoServiceRegistration - Updating port to 7073
+2024-12-19 07:07:51 [main] INFO  c.l.p.PaymentserviceApplication - Started PaymentserviceApplication in 39.029 seconds (process running for 40.531)
+2024-12-19 07:07:54 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:61a033c86d588ad96c5efea908b60bb5: registering service...
+2024-12-19 07:07:54 [DiscoveryClient-InstanceInfoReplicator-%d] INFO  c.netflix.discovery.DiscoveryClient - DiscoveryClient_LOX-PAYMENT-SERVICE/lox-payment-service:61a033c86d588ad96c5efea908b60bb5 - registration status: 204
+2024-12-19 07:09:21 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/%7BpaymentId%7D
+2024-12-19 07:09:21 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Response: 500 INTERNAL_SERVER_ERROR
+2024-12-19 07:09:51 [reactor-http-nio-3] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: PUT http://localhost:7073/api/payments/30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:51 [reactor-http-nio-3] INFO  c.l.p.a.c.PaymentController - Received request to update payment with ID: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Starting updatePaymentStatus for paymentId: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - PaymentRequest details: PaymentRequest(orderId=null, userId=null, amount=null, currency=null, paymentMethod=null, status=COMPLETED, transactionId=TXN1234567890)
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Found payment: Payment(paymentId=30321df9-5f05-4973-9e47-c02a895bed85, orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea, userId=123e4567-e89b-12d3-a456-426614174001, amount=150.0000, currency=USD, paymentMethod=CreditCard, status=COMPLETED, transactionId=txn_7890abcdef, createdAt=2024-12-19T12:55:10.586529Z, updatedAt=2024-12-19T12:55:28.005222Z)
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Updating payment status from COMPLETED to COMPLETED
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Updating transaction ID to TXN1234567890
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Payment after update: Payment(paymentId=30321df9-5f05-4973-9e47-c02a895bed85, orderId=50f67fca-ee1c-4617-a5c4-8c6437d8e9ea, userId=123e4567-e89b-12d3-a456-426614174001, amount=150.0000, currency=USD, paymentMethod=CreditCard, status=COMPLETED, transactionId=TXN1234567890, createdAt=2024-12-19T12:55:10.586529Z, updatedAt=2024-12-19T13:09:51.820289500Z)
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  c.l.p.a.services.PaymentServiceImpl - Emitting PaymentUpdatedEvent for paymentId: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  o.a.k.c.producer.ProducerConfig - ProducerConfig values: 
+	acks = -1
+	auto.include.jmx.reporter = true
+	batch.size = 16384
+	bootstrap.servers = [localhost:29092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.gzip.level = -1
+	compression.lz4.level = 9
+	compression.type = none
+	compression.zstd.level = 3
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = true
+	enable.metrics.push = true
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 5
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 1
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metadata.recovery.strategy = none
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.adaptive.partitioning.enable = true
+	partitioner.availability.timeout.ms = 0
+	partitioner.class = null
+	partitioner.ignore.keys = false
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+
+2024-12-19 07:09:51 [reactor-tcp-nio-5] INFO  o.a.k.c.t.i.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  o.a.k.clients.producer.KafkaProducer - [Producer clientId=producer-1] Instantiated an idempotent producer.
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka version: 3.8.1
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka commitId: 70d6ff42debf7e17
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  o.a.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1734613792073
+2024-12-19 07:09:52 [kafka-producer-network-thread | producer-1] INFO  org.apache.kafka.clients.Metadata - [Producer clientId=producer-1] Cluster ID: msz7zaIZTM-jj6F_9XA9Eg
+2024-12-19 07:09:52 [kafka-producer-network-thread | producer-1] INFO  o.a.k.c.p.i.TransactionManager - [Producer clientId=producer-1] ProducerId set to 32 with epoch 0
+2024-12-19 07:09:52 [kafka-producer-network-thread | producer-1] INFO  c.l.p.a.services.PaymentServiceImpl - Event emitted successfully for paymentId: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:52 [kafka-producer-network-thread | producer-1] INFO  c.l.p.a.services.PaymentServiceImpl - updatePaymentStatus completed for paymentId: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  c.l.p.a.c.PaymentController - Successfully updated payment with ID: 30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:09:52 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 07:11:42 [reactor-http-nio-8] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: POST http://localhost:7073/api/payments/callback
+2024-12-19 07:11:42 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 07:11:56 [reactor-http-nio-8] INFO  c.l.p.common.filters.LoggingFilter - Incoming request: GET http://localhost:7073/api/payments/30321df9-5f05-4973-9e47-c02a895bed85
+2024-12-19 07:11:56 [reactor-tcp-nio-5] INFO  c.l.p.common.filters.LoggingFilter - Response: 200 OK
+2024-12-19 07:12:49 [AsyncResolver-bootstrap-executor-%d] INFO  c.n.d.s.r.aws.ConfigClusterResolver - Resolving eureka endpoints via configuration

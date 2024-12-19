@@ -20,6 +20,7 @@ import com.lox.paymentservice.api.repositories.r2dbc.PaymentRepository;
 import java.time.Instant;
 import java.util.UUID;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.mapstruct.factory.Mappers;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
@@ -29,6 +30,7 @@ import reactor.kafka.sender.KafkaSender;
 import reactor.kafka.sender.SenderRecord;
 import reactor.kafka.sender.SenderResult;
 
+@Slf4j
 @Service
 @RequiredArgsConstructor
 public class PaymentServiceImpl implements PaymentService {
@@ -75,23 +77,51 @@ public class PaymentServiceImpl implements PaymentService {
     @Transactional
     public Mono<PaymentResponse> updatePaymentStatus(UUID paymentId,
             PaymentRequest paymentRequest) {
+        log.info("Starting updatePaymentStatus for paymentId: {}", paymentId);
+        log.info("PaymentRequest details: {}", paymentRequest);
+
         return paymentRepository.findById(paymentId)
                 .switchIfEmpty(Mono.error(
                         new PaymentNotFoundException("Payment not found with ID: " + paymentId)))
+                .doOnNext(payment -> log.info("Found payment: {}", payment))
                 .flatMap(existingPayment -> {
-                    // Update payment status and transaction ID based on request
-                    existingPayment.setStatus(
-                            PaymentStatus.valueOf(paymentRequest.getPaymentMethod().toUpperCase()));
-                    existingPayment.setTransactionId(paymentRequest.getPaymentMethod());
-                    existingPayment.setUpdatedAt(Instant.now());
-                    return paymentRepository.save(existingPayment);
+                    try {
+                        PaymentStatus newStatus = PaymentStatus.valueOf(
+                                paymentRequest.getStatus().toUpperCase());
+                        log.info("Updating payment status from {} to {}",
+                                existingPayment.getStatus(), newStatus);
+                        existingPayment.setStatus(newStatus);
+                        if (paymentRequest.getTransactionId() != null) {
+                            log.info("Updating transaction ID to {}",
+                                    paymentRequest.getTransactionId());
+                            existingPayment.setTransactionId(paymentRequest.getTransactionId());
+                        }
+                        existingPayment.setUpdatedAt(Instant.now());
+                        return paymentRepository.save(existingPayment);
+                    } catch (IllegalArgumentException e) {
+                        log.error("Invalid payment status: {}", paymentRequest.getStatus(), e);
+                        return Mono.error(new RuntimeException(
+                                "Invalid payment status: " + paymentRequest.getStatus(), e));
+                    }
                 })
+                .doOnNext(updatedPayment -> log.info("Payment after update: {}", updatedPayment))
                 .flatMap(updatedPayment -> {
                     PaymentUpdatedEvent event = PaymentUpdatedEvent.fromPayment(updatedPayment);
+                    log.info("Emitting PaymentUpdatedEvent for paymentId: {}", paymentId);
                     return emitEvent(event)
+                            .doOnSuccess(
+                                    v -> log.info("Event emitted successfully for paymentId: {}",
+                                            paymentId))
+                            .doOnError(e -> log.error("Failed to emit event for paymentId: {}",
+                                    paymentId, e))
                             .thenReturn(paymentMapper.toPaymentResponse(updatedPayment));
-                });
+                })
+                .doOnSuccess(response -> log.info("updatePaymentStatus completed for paymentId: {}",
+                        paymentId))
+                .doOnError(error -> log.error("updatePaymentStatus failed for paymentId: {}",
+                        paymentId, error));
     }
+
 
     @Override
     @Transactional
