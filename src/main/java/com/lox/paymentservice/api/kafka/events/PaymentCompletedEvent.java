@@ -17,6 +17,7 @@ public class PaymentCompletedEvent implements Event {
 
     private String eventType;
     private UUID paymentId;
+    private UUID trackId;
     private String status;
     private String transactionId;
     private Instant timestamp;
@@ -47,6 +48,7 @@ public class PaymentCompletedEvent implements Event {
         return PaymentCompletedEvent.builder()
                 .eventType(EventType.PAYMENT_COMPLETED.name())
                 .paymentId(payment.getPaymentId())
+                .trackId(payment.getTrackId())
                 .status(payment.getStatus().name())
                 .transactionId(payment.getTransactionId())
                 .timestamp(Instant.now())

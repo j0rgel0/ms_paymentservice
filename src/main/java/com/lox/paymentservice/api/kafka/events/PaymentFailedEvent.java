@@ -17,6 +17,7 @@ public class PaymentFailedEvent implements Event {
 
     private String eventType;
     private UUID paymentId;
+    private UUID trackId;
     private String status;
     private String transactionId;
     private String message;
@@ -49,6 +50,7 @@ public class PaymentFailedEvent implements Event {
         return PaymentFailedEvent.builder()
                 .eventType(EventType.PAYMENT_FAILED.name())
                 .paymentId(payment.getPaymentId())
+                .trackId(payment.getTrackId())
                 .status(payment.getStatus().name())
                 .transactionId(payment.getTransactionId())
                 .message(message)
