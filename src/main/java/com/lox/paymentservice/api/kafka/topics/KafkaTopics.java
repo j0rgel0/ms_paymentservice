@@ -10,13 +10,19 @@ import org.springframework.context.annotation.Configuration;
 @RequiredArgsConstructor
 public class KafkaTopics {
 
-    public static final String PAYMENT_EVENTS = "payment-events";
+    public static final String NOTIFICATION_EVENTS_TOPIC = "notification.events";
+    public static final String PAYMENT_STATUS_EVENTS_TOPIC = "payment.status.events";
 
     private final KafkaConfig kafkaConfig;
 
     @Bean
-    public NewTopic paymentEventsTopic() {
-        return kafkaConfig.createTopic(PAYMENT_EVENTS, 0,
-                (short) 0); // Example: 3 partitions, replication factor of 1
+    public NewTopic notificationsEventsTopic() {
+        return kafkaConfig.createTopic(NOTIFICATION_EVENTS_TOPIC, 3, (short) 1);
     }
+
+    @Bean
+    public NewTopic paymentStatusEventsTopic() {
+        return kafkaConfig.createTopic(PAYMENT_STATUS_EVENTS_TOPIC, 3, (short) 1);
+    }
+
 }

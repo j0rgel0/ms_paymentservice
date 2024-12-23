@@ -6,12 +6,14 @@ CREATE TABLE IF NOT EXISTS payments
 (
     payment_id     UUID PRIMARY KEY            DEFAULT uuid_generate_v4(),
     order_id       UUID           NOT NULL,
+    track_id       UUID           NULL,
     user_id        UUID           NOT NULL,
     amount         DECIMAL(19, 4) NOT NULL,
     currency       VARCHAR(3)     NOT NULL,
     payment_method VARCHAR(50)    NOT NULL,
     status         VARCHAR(20)    NOT NULL,
     transaction_id VARCHAR(100),
+    failure_reason TEXT 		  NULL,
     created_at     TIMESTAMP WITHOUT TIME ZONE DEFAULT (NOW() AT TIME ZONE 'utc'),
     updated_at     TIMESTAMP WITHOUT TIME ZONE DEFAULT (NOW() AT TIME ZONE 'utc')
 );

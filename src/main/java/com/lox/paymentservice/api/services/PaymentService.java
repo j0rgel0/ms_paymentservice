@@ -1,8 +1,9 @@
 package com.lox.paymentservice.api.services;
 
+import com.lox.paymentservice.api.kafka.events.InitiatePaymentCommand;
+import com.lox.paymentservice.api.models.page.PaymentPage;
 import com.lox.paymentservice.api.models.requests.PaymentRequest;
 import com.lox.paymentservice.api.models.responses.PaymentResponse;
-import com.lox.paymentservice.api.models.page.PaymentPage;
 import java.time.Instant;
 import java.util.UUID;
 import reactor.core.publisher.Mono;
@@ -21,4 +22,7 @@ public interface PaymentService {
             Instant endDate, int page, int size);
 
     Mono<Void> handlePaymentCallback(String callbackPayload);
+
+    Mono<Void> handlePaymentCommands(InitiatePaymentCommand cmd);
+
 }

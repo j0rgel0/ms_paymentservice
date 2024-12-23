@@ -1,8 +1,7 @@
 package com.lox.paymentservice.api.models;
 
 public enum PaymentStatus {
-    INITIATED,
-    COMPLETED,
-    FAILED,
-    CANCELLED
+    INITIATED,   // initial state
+    SUCCESS,     // payment success
+    FAILED       // payment failure
 }
