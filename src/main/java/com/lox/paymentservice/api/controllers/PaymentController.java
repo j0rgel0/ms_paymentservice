@@ -1,5 +1,6 @@
 package com.lox.paymentservice.api.controllers;
 
+import com.lox.paymentservice.api.models.Payment;
 import com.lox.paymentservice.api.models.requests.PaymentRequest;
 import com.lox.paymentservice.api.models.responses.PaymentResponse;
 import com.lox.paymentservice.api.models.page.PaymentPage;
@@ -9,6 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
+import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 import jakarta.validation.Valid;
@@ -112,5 +114,16 @@ public class PaymentController {
     @ResponseStatus(HttpStatus.OK)
     public Mono<Void> handlePaymentCallback(@RequestBody String callbackPayload) {
         return paymentService.handlePaymentCallback(callbackPayload);
+    }
+
+    @GetMapping("/searchByTrackId")
+    public Flux<Payment> listPaymentsByTrackId(@RequestParam(required = false) UUID trackId) {
+        if (trackId != null) {
+            return paymentService.listPaymentsByTrackId(trackId);
+        } else {
+            // If no trackId param is provided, return all payments
+            return paymentService.listPaymentsByTrackId(null)
+                    .switchIfEmpty(paymentService.listPaymentsByTrackId(null));
+        }
     }
 }

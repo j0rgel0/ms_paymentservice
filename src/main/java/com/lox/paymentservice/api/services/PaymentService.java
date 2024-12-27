@@ -1,11 +1,13 @@
 package com.lox.paymentservice.api.services;
 
 import com.lox.paymentservice.api.kafka.events.InitiatePaymentCommand;
+import com.lox.paymentservice.api.models.Payment;
 import com.lox.paymentservice.api.models.page.PaymentPage;
 import com.lox.paymentservice.api.models.requests.PaymentRequest;
 import com.lox.paymentservice.api.models.responses.PaymentResponse;
 import java.time.Instant;
 import java.util.UUID;
+import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 public interface PaymentService {
@@ -24,5 +26,7 @@ public interface PaymentService {
     Mono<Void> handlePaymentCallback(String callbackPayload);
 
     Mono<Void> handlePaymentCommands(InitiatePaymentCommand cmd);
+
+    Flux<Payment> listPaymentsByTrackId(UUID trackId);
 
 }

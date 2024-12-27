@@ -28,6 +28,7 @@ import org.mapstruct.factory.Mappers;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.kafka.sender.KafkaSender;
 import reactor.kafka.sender.SenderRecord;
@@ -420,4 +421,10 @@ public class PaymentServiceImpl implements PaymentService {
         // Default topic if event type is not found
         return KafkaTopics.NOTIFICATION_EVENTS_TOPIC;
     }
+
+    @Override
+    public Flux<Payment> listPaymentsByTrackId(UUID trackId) {
+        return paymentRepository.findByTrackId(trackId);
+    }
+
 }
